@@ -1,4 +1,4 @@
-# Crop Stage Detection and Prediction
+# RVI and NDVI Calculation
 
 This project utilizes Google Earth Engine (GEE) to analyze satellite imagery from Sentinel-1 and Sentinel-2 for agricultural applications, specifically to calculate the Radar Vegetation Index (RVI) and the Normalized Difference Vegetation Index (NDVI). These indices are helpful in monitoring crop health and estimating yield.
 
